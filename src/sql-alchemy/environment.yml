@@ -1,0 +1,10 @@
+name: sa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - sqlalchemy
+  - psycopg2
+#   - pip:
+#     - atari-py==0.2.6
+#     - ftfy==5.7
